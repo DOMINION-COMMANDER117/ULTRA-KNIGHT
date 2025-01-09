@@ -5,7 +5,7 @@ Please Follow this guide, Click the images as Needed, And follow any videos as l
 
 
 # LETS GET STARTED
-Make sure you have Downloaded the Chapter 6 TOD " Master " File From the UltraKnight Discord Asset Center. Found under TOD PACKS, AND - CH6 TOD " Master " Post.
+Open UEFN. Load everything, and enter your project you want the Chapter 6 TOD " Master " in. Make sure you have Downloaded the Chapter 6 TOD " Master " File From the UltraKnight Discord Asset Center. Found under TOD PACKS, AND - CH6 TOD " Master " Post.
 Download the Zip File to the desired Location. Unzip it, and Keep it where you unziped it.
 
 
@@ -14,3 +14,7 @@ Click the **MAIN** Folder that came from the zipped folder, and in the top left 
 
 https://github.com/user-attachments/assets/61731e62-2e24-41ea-af81-d533599786f7
 
+Next Go to the second Pagewhere you Projects Main **CONTENT** Browser is. No subfolders, No orginization **ATM PLS**- Click Paste. Go to UEFN As directed to have open in the first few steps.
+A blue and grey window will apear, Asking if you trust these assets, **PLEASE CLICK CONTINUE / YES / ADD**
+
+Once you have hit yes. Please Save you projects and files By Following the video Below. **DO ALL STEPS TO ENSURE EVERYTHING SAVES AS IT SHOULD!!** Before you crash and have to restart.
