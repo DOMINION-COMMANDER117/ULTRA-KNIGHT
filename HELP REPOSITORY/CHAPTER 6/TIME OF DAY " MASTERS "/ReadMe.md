@@ -11,3 +11,6 @@ Download the Zip File to the desired Location. Unzip it, and Keep it where you u
 
 **NEXT** Youll want to open **TWO** Windows in file explorer. One where your UEFN Project you want this GOing is ( Content Directory ), And one where you unzipped the File we just downloaded. 
 Click the **MAIN** Folder that came from the zipped folder, and in the top left hand Corner Click copy ( OR ) Right click and COPY!
+
+https://github.com/user-attachments/assets/61731e62-2e24-41ea-af81-d533599786f7
+
