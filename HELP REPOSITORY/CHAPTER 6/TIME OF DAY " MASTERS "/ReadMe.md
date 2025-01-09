@@ -38,3 +38,31 @@ Drag them into the world, and be patient. Its taking time to load about 30 meshe
 Once they apear, Set everything ( Cordinate wise ) To 0 , 0 , 0           and The rotations all to the same. Set your scale to 1,1,1.
 
 Follow the Video below if you **DONT** Understand.
+
+
+https://github.com/user-attachments/assets/3b975edc-817f-4573-b7c3-11f295770695
+
+
+
+**ONCE SET TO ZERO 1,1,1 and no rotation. Move to the next steps
+
+# SEQUENCE DATA AND REPLACEMENTS
+
+When you load this into your project, this could be set up for you, but theres a **HIGHER** Chance its not. You will have to open the sequence that comes in the file, and replace the items yourself. 
+
+Before you do that, get the following items into your world.
+
+
+DIRECTION LIGHT ( Can be found using the green plus at the top of your screen, and found under the **LIGHS** Catagory
+
+HEIGHT FOG ( + Button ) Visual Effects, Height Fog.
+
+
+Set these items to 1 scale and o for rotations, and location.
+
+Open your sequence.
+
+Follow this short guide and instructional step by step list, on how to replace refrences, and missing asset calls.
+
+**OPEN A SECONDARY CONTENT BROWSER WINDOW** Drag the Ch6 TOD BP ( BluePrint ) Into the worls and set at 0,0,0,
+In your sequence, select the TOD Actor, RIGHT CLICK, Actions, Replace with selected.
