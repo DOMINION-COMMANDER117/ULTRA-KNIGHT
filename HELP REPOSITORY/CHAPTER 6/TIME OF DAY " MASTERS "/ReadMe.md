@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/3b19a758-49b8-4e47-a7de-2a4ae1e2850d
 
 
 
-Follow these exact same steps for all the listem items required in the Sequence. **THEN SAVE**
+Follow these exact same steps for all the listed items required in the Sequence. **THEN SAVE**
 If you did everything correctly it should be working.
 
 ***TIPS AND TRICKS**
