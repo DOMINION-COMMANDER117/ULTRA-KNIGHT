@@ -18,3 +18,23 @@ Next Go to the second Pagewhere you Projects Main **CONTENT** Browser is. No sub
 A blue and grey window will apear, Asking if you trust these assets, **PLEASE CLICK CONTINUE / YES / ADD**
 
 Once you have hit yes. Please Save you projects and files By Following the video Below. **DO ALL STEPS TO ENSURE EVERYTHING SAVES AS IT SHOULD!!** Before you crash and have to restart.
+
+https://github.com/user-attachments/assets/faac1bca-7e31-4fb4-905c-5e4cbfb44285
+
+Once you have Done the following, Your set up. You may move to the next section. 
+***TROUBLESHOOTING*** 
+
+> If something didnt apear, as listed, Revert to staep One again, and or visit our common errors page, here on the repository as well, and find out if you did something wrong.
+> Resave Rename and Move assets ( To shorten File Paths ) As needed After.
+> If you have had THE EDITOR OPEN (**UEFN**) For too Long you may need to restart, if nothing is showing, to refreash everything back to its default state.
+
+
+# STEP 2 ( CLOUDS, AND SEQUENCE DATA )
+
+**THE TOD 'MASTER'** For chapter 6 Can look complex, confusing, and you may just be like ''whatever, I dont want this, its too hard'' But Trust me, I Have gone through the difficult steps on finding out the errors. Replacing them, and getting the perfect working result for everyone.
+
+Beging By Opening the folder, Going to cloud meshes, and Selecting all the meshes with the name,  " BAKED CLOUDS" Only about 5 extra Meshes Should be left over after your done that arent clouds.
+Drag them into the world, and be patient. Its taking time to load about 30 meshes in. Dont click anything or spam any buttons. You may wind up crashing your editor, if its low end, and loosing your progress.
+Once they apear, Set everything ( Cordinate wise ) To 0 , 0 , 0           and The rotations all to the same. Set your scale to 1,1,1.
+
+Follow the Video below if you **DONT** Understand.
