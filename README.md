@@ -44,6 +44,6 @@ Keep up to date, by following the announcement channel **IN OUR DISCORD**
      
  # ULTRA KNIGHT SERVICES
 
-We provide tools for the fortnite community. Under right is everything ours, and the provided >COPYRIGHT< Information is in the legal and copyright folders Provided oon our home page of the forge github. Documentation, along with our 2025, license!
+We provide tools for the fortnite community. Under all right is everything ours, and the provided >COPYRIGHT< Information is in the legal and copyright folders Provided on our home page of the  github. Documentation, along with our 2025, license!
 
 
