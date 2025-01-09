@@ -66,3 +66,26 @@ Follow this short guide and instructional step by step list, on how to replace r
 
 **OPEN A SECONDARY CONTENT BROWSER WINDOW** Drag the Ch6 TOD BP ( BluePrint ) Into the worls and set at 0,0,0,
 In your sequence, select the TOD Actor, RIGHT CLICK, Actions, Replace with selected.
+
+
+https://github.com/user-attachments/assets/3b19a758-49b8-4e47-a7de-2a4ae1e2850d
+
+
+
+Follow these exact same steps for all the listem items required in the Sequence. **THEN SAVE**
+If you did everything correctly it should be working.
+
+***TIPS AND TRICKS**
+
+RENDER DISTANCE ( CLOUDS  ) Are not showing in game. ( HEAD INTO UEFN ) And select all your cloud meshes you drug out ealier. Go on the right hand side, Select LOD BIAS, and scroll down a bit. Select **MAXIMUM** Draw Distance. And enter this number 100000000000000000000000000000000000000000000000000000000000000000 ( WITH ALL THEM SELECTED )
+It will glitch the items into inf ( No low unviewable distance ) Making sure your clouds are always visible, in game.
+
+**ADD A SEQUENCE DEVICE TO YOU WORLD. PUT THE SEQUENCE INTO IT, and SELECT LOOP AND AUTO ACTIVE **ON** Push Chages, And you have yourself a Automatic TOD, Sequence. 
+Increasing, or decreasing the play rate, slows, and speeds up how fast the sequence plays in the world. For a faster tod, sequences, increase it. And lower it for the oppisite effect.
+
+If something is not working after following this guide, Visiting the help Reposity, please contact us through our support sytem in our discord. This allows us to help everything and provide updated common errors for the future that way nobody else runs into the same issues.
+
+
+We thankyou for choosing ultraknight as your asset directory discord server, and hope your maps become Vibrant with Hermes Life after this, See you in future updates. 
+
+**2025, ULTRAKNIGHT ALL RIGHTS RESERVED.**
