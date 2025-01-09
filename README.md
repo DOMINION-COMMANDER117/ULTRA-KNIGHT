@@ -26,7 +26,8 @@ Below you will find every build archive we have, along with the download links. 
 
 # RULES FOR THE GITHUB
 
-![1](https://github.com/user-attachments/assets/7a88d803-3826-46de-a038-04bb48cb4f00)
+![Copy of 2025 ULTRAKNIGHT BANNERS (1)](https://github.com/user-attachments/assets/d4658e13-0683-4279-81e6-135c6d9ef2d0)
+
 
 
 Please DO NOT! Steal anything posted here. We remain to having the rights to fully publish **OUR** work here. Stealing it is infrindgement, and breaking our **TOS**
