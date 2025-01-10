@@ -30,6 +30,18 @@ Once you have Done the following, Your set up. You may move to the next section.
 
 
 # STEP 2 ( CLOUDS, AND SEQUENCE DATA )
+( UPDATE )
+> Make your own sequence, By doing the following, - 
+**OPEN THE FOLDER THE INCLUDED SEQUENCE IS IN**- Right click, Browse to cinimatics, and create a new sequence, Naming it something that you can remeber, and that is not the same as the old seq.
+
+Save,   Open the old ONE, CLT A TO SELECT ALL ( ON THE LEFT HAND SIDE ) And  CLT C TO COPY.
+
+Close the old one.
+
+Open the new one. And CLT V to paste ( ON THE LEFT AS WELL ) Save THEN, DELETE THE OLD ONE,
+
+Resave the master folder, And update redirectory refrences.
+
 
 **THE TOD 'MASTER'** For chapter 6 Can look complex, confusing, and you may just be like ''whatever, I dont want this, its too hard'' But Trust me, I Have gone through the difficult steps on finding out the errors. Replacing them, and getting the perfect working result for everyone.
 
